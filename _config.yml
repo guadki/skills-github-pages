@@ -1,0 +1,5 @@
+theme: minima
+minima:
+  skin: dark
+title: obfuscated payload
+author: guadki
